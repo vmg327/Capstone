@@ -53,6 +53,7 @@ h1 {
 canvas {
 	border: 20px solid red;
 	background-image: url("Pictures/clouds and grass.png");
+	/* Image by kropekk_pl from https://pixabay.com/vectors/the-background-background-design-352165/ */
 	background-repeat: no-repeat;
 	background-size: cover;
 	min-height: 10%;
