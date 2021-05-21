@@ -37,11 +37,7 @@ img {
 }
 
 a:hover {
-	background-color: red;
-}
-
-body .game {
-	background-color: blue;
+	background-color: white;
 }
 
 h1 {
@@ -75,11 +71,4 @@ button {
 button:hover {
 	background-color: lime;
 	color: black;
-}
-
-div #game {
-	font-size: 30px;
-	margin-left: 20px;
-	padding: 10px;
-	font-family: Arial;
 }
