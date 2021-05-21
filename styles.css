@@ -45,7 +45,7 @@ body .game {
 }
 
 h1 {
-	color: blue;
+	color: white;
 	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
@@ -74,6 +74,7 @@ button {
 
 button:hover {
 	background-color: lime;
+	color: black;
 }
 
 div #game {
