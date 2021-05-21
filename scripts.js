@@ -1,3 +1,7 @@
+// The new concept that I used in my JS code is Math.floor and Math.random for different heights of my game obstacles. The heights of these obstacles are between 60 and 250. This code can be found between lines 114-116.
+
+// Adapted code from https://www.w3schools.com/graphics/game_score.asp
+
 var myGamePiece;
 var myObstacles = [];
 var myScore;
@@ -8,6 +12,7 @@ document.body.style.backgroundColor="DodgerBlue";
 
 function startGame() {
     myGamePiece = new component(100, 30, "Pictures/green airplane.png", 500, 140, "image");
+    // Image by Clker-Free-Vector-Images https://pixabay.com/vectors/airplane-plane-transportation-303563/
     myScore = new component("30px", "Consolas", "black", 120, 50, "text");
     myGameArea.start();
 }
