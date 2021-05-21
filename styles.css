@@ -1,0 +1,84 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+#home {
+	font-size: 30px;
+	margin-left: 325px;
+	font-family: Arial;
+	color: black;
+}
+
+.overlay a {
+	background-color: yellow;
+	color: black;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 10px;
+	border: 2px solid black;
+	margin-left: 710px;
+}
+
+a:hover {
+	background-color: red;
+}
+
+body .game {
+	background-color: blue;
+}
+
+h1 {
+	color: blue;
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	font-size: 70px;
+	margin: 0;
+	margin-left: 475px;
+}
+
+canvas {
+	border: 20px solid red;
+	background-image: url("Pictures/clouds and grass.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 10%;
+	min-width: 10%;
+	margin-top: 95px;
+	margin-left: 8px;
+}
+
+button {
+	background-color: red;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+button:hover {
+	background-color: lime;
+}
+
+div #game {
+	font-size: 30px;
+	margin-left: 20px;
+	padding: 10px;
+	font-family: Arial;
+}
