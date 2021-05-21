@@ -1,3 +1,5 @@
+// Adapted code by Dominic Valenciana from https://stackoverflow.com/questions/39861769/ask-the-user-its-name and code by Karan from https://stackoverflow.com/questions/47965648/load-html-before-asking-for-users-input-using-prompt
+
 var delayInMilliseconds = 1000;
 var name;
 
