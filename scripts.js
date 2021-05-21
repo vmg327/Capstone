@@ -4,6 +4,8 @@ var myScore;
 var answer;
 var i;
 
+document.body.style.backgroundColor="blue";
+
 function startGame() {
     myGamePiece = new component(100, 30, "Pictures/green airplane.png", 500, 140, "image");
     myScore = new component("30px", "Consolas", "black", 120, 50, "text");
