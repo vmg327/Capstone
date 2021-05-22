@@ -1,4 +1,4 @@
-// The new concept that I used in my JS code is Math.floor and Math.random for different heights of my game obstacles. The heights of these obstacles are between 60 and 250. This code can be found between lines 114-116.
+// The new concept that I used in my JS code is Math.floor and Math.random for different heights of my game obstacles. The heights of these obstacles are between 60 and 250. This code can be found on lines 128-130.
 
 // Adapted code from https://www.w3schools.com/graphics/game_score.asp
 
